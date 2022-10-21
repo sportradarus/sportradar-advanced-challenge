@@ -18,6 +18,8 @@
   * Hits
   * Points
   * Penalty Minutes
+  * Opponnet Team
+  
 * We should be able to query the database for up-to-date stats during, and after, a live game.
 
 This exercise will serve as our initial evaluation of your development skills, it will also be used to further conversations we will have with you. We respect your time and the fact that you have a life and possibly a day-job, so put in as much time as you feel will be a fair representation of your skills. Ideally we'd like to see as much of this done as possible, but scoping and focus are relevant. First and foremost, we are looking for a solid representation of your code. 
